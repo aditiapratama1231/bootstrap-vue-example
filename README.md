@@ -1,4 +1,4 @@
-# aditia-resume
+# aditia-example
 
 ## Project setup
 ```
